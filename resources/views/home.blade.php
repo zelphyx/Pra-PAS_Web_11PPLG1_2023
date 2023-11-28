@@ -9,6 +9,7 @@
             <p>Duar Test Test</p>
             <a class="btn btn-primary btn-lg" href="/mouse" role="button">Learn more About Mouse</a>
             <a class="btn btn-primary btn-lg" href="/keyboard" role="button">Learn more About Keyboard</a>
+            <a class="btn btn-primary btn-lg" href="/monitor" role="button">Learn more About Monitors</a>
         </div>
     </div>
 @endsection

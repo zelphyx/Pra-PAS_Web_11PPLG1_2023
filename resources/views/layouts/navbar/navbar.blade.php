@@ -9,6 +9,7 @@
                 <a class="nav-link active fw-bold text-light" aria-current="page" href="/home">Home</a>
                 <a class="nav-link  fw-bold text-light" href="/mouse">Mouse</a>
                 <a class="nav-link fw-bold text-light" href="/keyboard">Keyboard</a>
+                <a class="nav-link fw-bold text-light" href="/monitor">Monitors</a>
             </div>
         </div>
     </div>
